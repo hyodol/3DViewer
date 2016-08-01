@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: b48980582059efb4584c7c7ac9fcf8da
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: string2_0
+    21300002: string2_1
+    21300004: string2_2
+    21300006: string2_3
+    21300008: string2_4
+    21300010: string2_6
+    21300012: string2_7
+    21300014: SettingPanelString_0
+    21300016: SettingPanelString_1
+    21300018: SettingPanelString_2
+    21300020: SettingPanelString_3
+    21300022: SettingPanelString_4
+    21300024: SettingPanelString_6
+    21300026: SettingPanelString_7
+    21300028: SettingPanelStrings_0
+    21300030: SettingPanelStrings_1
+    21300032: SettingPanelStrings_2
+    21300034: SettingPanelStrings_3
+    21300036: SettingPanelStrings_4
+    21300038: SettingPanelStrings_6
+    21300040: SettingPanelStrings_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SettingPanelStrings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SettingPanelStrings_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
